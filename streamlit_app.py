@@ -1,1 +1,1 @@
-Created the main python file in snowflake session badge 2.
+print("Created the main python file in snowflake session badge 2.")
