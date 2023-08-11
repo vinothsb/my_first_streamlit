@@ -1,1 +1,2 @@
-print("Created the main python file in snowflake session badge 2.")
+import streamlit
+streamlit.title("My Parents New Healthy Diner")
